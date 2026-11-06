@@ -18,18 +18,18 @@
 
 ## 💼 Чем занимаюсь
 
-- 🖥️ **Десктоп** — Приложения на WPF, встроенный браузер на CefSharp
-- 🌐 **Веб** — Сайты и бэкенд на ASP.NET MVC
-- 💳 **Платежи** — Интеграция платёжных шлюзов и эквайринга
-- 🔌 **Интеграции** — Сторонние REST/SOAP API, обмен данными
-- 🛠️ **Легаси** — Поддержка, рефакторинг, поэтапная модернизация
+- 🖥️ **Десктоп** - Приложения на WPF, встроенный браузер на CefSharp
+- 🌐 **Веб** - Сайты и бэкенд на ASP.NET MVC
+- 💳 **Платежи** - Интеграция платёжных шлюзов и эквайринга
+- 🔌 **Интеграции** - Сторонние REST/SOAP API, обмен данными
+- 🛠️ **Легаси** - Поддержка, рефакторинг, поэтапная модернизация
 
 ## 🌍 Open source
 
 Участвую в проектах, которые встраивают Chromium в .NET и нативные приложения:
 
-- [**cefsharp/CefSharp**](https://github.com/cefsharp/CefSharp) — .NET-обёртка для CEF
-- [**chromiumembedded/cef**](https://github.com/chromiumembedded/cef) — Chromium Embedded Framework
+- [**cefsharp/CefSharp**](https://github.com/cefsharp/CefSharp) - .NET-обёртка для CEF
+- [**chromiumembedded/cef**](https://github.com/chromiumembedded/cef) - Chromium Embedded Framework
 
 ## 🧰 Стек
 
@@ -52,4 +52,4 @@
   <a href="mailto:agapov-alexsey@yandex.com"><img src="https://img.shields.io/badge/Email-agapov--alexsey%40yandex.com-FF3333?style=for-the-badge" alt="Email"></a>
 </p>
 
-Открыт к новым проектам и заказам — пишите.
+Открыт к новым проектам и заказам - пишите.

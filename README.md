@@ -18,18 +18,18 @@ In my spare time I contribute to **CEF** and **CefSharp**.
 
 ## 💼 What I do
 
-- 🖥️ **Desktop apps** — WPF applications, embedded browsers with CefSharp
-- 🌐 **Web** — ASP.NET MVC websites and backends
-- 💳 **Payments** — Payment gateway and acquiring integrations
-- 🔌 **Integrations** — Third-party REST/SOAP APIs, data exchange
-- 🛠️ **Legacy code** — Support, refactoring, step-by-step modernization
+- 🖥️ **Desktop apps** - WPF applications, embedded browsers with CefSharp
+- 🌐 **Web** - ASP.NET MVC websites and backends
+- 💳 **Payments** - Payment gateway and acquiring integrations
+- 🔌 **Integrations** - Third-party REST/SOAP APIs, data exchange
+- 🛠️ **Legacy code** - Support, refactoring, step-by-step modernization
 
 ## 🌍 Open source
 
 I contribute to the projects that put Chromium inside .NET and native apps:
 
-- [**cefsharp/CefSharp**](https://github.com/cefsharp/CefSharp) — the .NET wrapper for CEF
-- [**chromiumembedded/cef**](https://github.com/chromiumembedded/cef) — Chromium Embedded Framework
+- [**cefsharp/CefSharp**](https://github.com/cefsharp/CefSharp) - the .NET wrapper for CEF
+- [**chromiumembedded/cef**](https://github.com/chromiumembedded/cef) - Chromium Embedded Framework
 
 ## 🧰 Tech stack
 
@@ -52,4 +52,4 @@ I contribute to the projects that put Chromium inside .NET and native apps:
   <a href="mailto:agapov-alexsey@yandex.com"><img src="https://img.shields.io/badge/Email-agapov--alexsey%40yandex.com-FF3333?style=for-the-badge" alt="Email"></a>
 </p>
 
-Open to new projects and contracts — feel free to drop me a line.
+Open to new projects and contracts - feel free to drop me a line.
