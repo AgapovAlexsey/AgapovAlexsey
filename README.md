@@ -18,20 +18,18 @@ In my spare time I contribute to **CEF** and **CefSharp**.
 
 ## 💼 What I do
 
-| | | |
-|:---:|---|---|
-| 🖥️ | **Desktop apps** | WPF applications, embedded browsers with CefSharp |
-| 🌐 | **Web** | ASP.NET MVC websites and backends |
-| 💳 | **Payments** | Payment gateway and acquiring integrations |
-| 🔌 | **Integrations** | Third-party REST/SOAP APIs, data exchange |
-| 🛠️ | **Legacy code** | Support, refactoring, step-by-step modernization |
+- 🖥️ **Desktop apps** — WPF applications, embedded browsers with CefSharp
+- 🌐 **Web** — ASP.NET MVC websites and backends
+- 💳 **Payments** — Payment gateway and acquiring integrations
+- 🔌 **Integrations** — Third-party REST/SOAP APIs, data exchange
+- 🛠️ **Legacy code** — Support, refactoring, step-by-step modernization
 
 ## 🌍 Open source
 
 I contribute to the projects that put Chromium inside .NET and native apps:
 
-- [**cefsharp/CefSharp**](https://github.com/cefsharp/CefSharp) — the .NET wrapper for CEF · [my pull requests →](https://github.com/cefsharp/CefSharp/pulls?q=is%3Apr+author%3AAgapovAlexsey)
-- [**chromiumembedded/cef**](https://github.com/chromiumembedded/cef) — Chromium Embedded Framework · [my pull requests →](https://github.com/chromiumembedded/cef/pulls?q=is%3Apr+author%3AAgapovAlexsey)
+- [**cefsharp/CefSharp**](https://github.com/cefsharp/CefSharp) — the .NET wrapper for CEF
+- [**chromiumembedded/cef**](https://github.com/chromiumembedded/cef) — Chromium Embedded Framework
 
 ## 🧰 Tech stack
 

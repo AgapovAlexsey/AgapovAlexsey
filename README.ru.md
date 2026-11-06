@@ -18,20 +18,18 @@
 
 ## 💼 Чем занимаюсь
 
-| | | |
-|:---:|---|---|
-| 🖥️ | **Десктоп** | Приложения на WPF, встроенный браузер на CefSharp |
-| 🌐 | **Веб** | Сайты и бэкенд на ASP.NET MVC |
-| 💳 | **Платежи** | Интеграция платёжных шлюзов и эквайринга |
-| 🔌 | **Интеграции** | Сторонние REST/SOAP API, обмен данными |
-| 🛠️ | **Легаси** | Поддержка, рефакторинг, поэтапная модернизация |
+- 🖥️ **Десктоп** — Приложения на WPF, встроенный браузер на CefSharp
+- 🌐 **Веб** — Сайты и бэкенд на ASP.NET MVC
+- 💳 **Платежи** — Интеграция платёжных шлюзов и эквайринга
+- 🔌 **Интеграции** — Сторонние REST/SOAP API, обмен данными
+- 🛠️ **Легаси** — Поддержка, рефакторинг, поэтапная модернизация
 
 ## 🌍 Open source
 
 Участвую в проектах, которые встраивают Chromium в .NET и нативные приложения:
 
-- [**cefsharp/CefSharp**](https://github.com/cefsharp/CefSharp) — .NET-обёртка для CEF · [мои pull request'ы →](https://github.com/cefsharp/CefSharp/pulls?q=is%3Apr+author%3AAgapovAlexsey)
-- [**chromiumembedded/cef**](https://github.com/chromiumembedded/cef) — Chromium Embedded Framework · [мои pull request'ы →](https://github.com/chromiumembedded/cef/pulls?q=is%3Apr+author%3AAgapovAlexsey)
+- [**cefsharp/CefSharp**](https://github.com/cefsharp/CefSharp) — .NET-обёртка для CEF
+- [**chromiumembedded/cef**](https://github.com/chromiumembedded/cef) — Chromium Embedded Framework
 
 ## 🧰 Стек
 
