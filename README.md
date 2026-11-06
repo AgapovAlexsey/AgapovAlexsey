@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>🇬🇧 English</b> &nbsp;|&nbsp; <a href="README.ru.md">🇷🇺 Русский</a>
+  <b>English</b> &nbsp;|&nbsp; <a href="README.ru.md">Русский</a>
 </p>
 
 <p align="center">
@@ -43,16 +43,9 @@ I contribute to the projects that put Chromium inside .NET and native apps:
   <img src="https://img.shields.io/badge/CefSharp-1A73E8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="CefSharp">
 </p>
 <p>
-  <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge" alt="MS SQL Server">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&labelColor=CC2927" alt="MS SQL Server">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-</p>
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AgapovAlexsey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgapovAlexsey&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
 </p>
 
 ## 📫 Contact

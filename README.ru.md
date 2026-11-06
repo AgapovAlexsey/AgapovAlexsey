@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="README.md">🇬🇧 English</a> &nbsp;|&nbsp; <b>🇷🇺 Русский</b>
+  <a href="README.md">English</a> &nbsp;|&nbsp; <b>Русский</b>
 </p>
 
 <p align="center">
@@ -43,16 +43,9 @@
   <img src="https://img.shields.io/badge/CefSharp-1A73E8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="CefSharp">
 </p>
 <p>
-  <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge" alt="MS SQL Server">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&labelColor=CC2927" alt="MS SQL Server">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-</p>
-
-## 📊 Статистика
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AgapovAlexsey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=ru" alt="Статистика GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgapovAlexsey&layout=compact&theme=tokyonight&hide_border=true&locale=ru" alt="Топ языков">
 </p>
 
 ## 📫 Связь
